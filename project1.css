@@ -1,0 +1,11 @@
+.python{display: inline-block;}
+.Js{display: inline-block;}
+.c{display: inline-block;}
+.Ds{display: inline-block;}
+.logsin{display: flex;}
+.log{
+width: 109px;
+height: 39px;
+margin-right: 5px;
+margin-top: 2px;
+}
